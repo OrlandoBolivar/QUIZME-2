@@ -16,8 +16,8 @@ SO THAT I can gauge my progress compared to my peers
 
 repository link and app deployed 
 
-- https://github.com/OrlandoBolivar/QUIZme.js
-- 
+- https://github.com/OrlandoBolivar/QUIZME-2
+- https://orlandobolivar.github.io/QUIZME-2/
 
 ![Quizme](.//Assets/images/quiz%20me%20.png)
 
